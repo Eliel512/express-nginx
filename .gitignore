@@ -49,7 +49,7 @@ node_modules/
 jspm_packages/
 
 # Database directory
-datas/
+data/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
